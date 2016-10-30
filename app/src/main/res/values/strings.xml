@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RawNews</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="user">User</string>
+    <string name="daily_news">Daily News</string>
+    <string name="job_news">Job News</string>
+    <string name="login">Login</string>
+</resources>
